@@ -1,1 +1,1 @@
-# ratings-component
+# mini-projects-starter
